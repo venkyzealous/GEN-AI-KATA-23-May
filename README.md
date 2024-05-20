@@ -1,2 +1,4 @@
-# GEN-AI-KATA-23-May
-To be application solution
+Retail Management System
+========================
+
+A Management system for a retail environment.
